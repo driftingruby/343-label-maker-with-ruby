@@ -72,3 +72,9 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "cupsffi", "~> 0.1.9"
+
+gem "dotenv-rails", "~> 2.7"
+
+gem "rufus-scheduler", "~> 3.8"
